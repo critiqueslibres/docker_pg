@@ -1,2 +1,4 @@
 # docker_pg
-Postgres database
+Postgres database 9.6 on Centos 7.3
+
+
